@@ -22,7 +22,7 @@ Just add this to the theme file/your custom css! (make sure to insert the link t
 ```css
 /*Background image*/
 .appMount-3lHmkl {
-    background-image: url("insert link here");
+    background-image: url("https://www.deviantart.com/exoticgeneration21/art/BLACKPINK-WALLPAPER-1920x1080-HD-NEON-761699879");
     background-size: cover;
     background-position: center;
 }
