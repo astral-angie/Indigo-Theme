@@ -22,7 +22,7 @@ Just add this to the theme file/your custom css! (make sure to insert the link t
 ```css
 /*Background image*/
 .appMount-3lHmkl {
-    background-image: url("insert link here");
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0775e1e2-b3a3-40c1-812f-cd49efa417ce/dclhvdz-aa331835-f165-4b30-99f8-e9337e35d15b.png/v1/fill/w_1192,h_670,q_70,strp/blackpink_wallpaper_1920x1080_hd___neon___by_exoticgeneration21_dclhvdz-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMDgwIiwicGF0aCI6IlwvZlwvMDc3NWUxZTItYjNhMy00MGMxLTgxMmYtY2Q0OWVmYTQxN2NlXC9kY2xodmR6LWFhMzMxODM1LWYxNjUtNGIzMC05OWY4LWU5MzM3ZTM1ZDE1Yi5wbmciLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AV1Bed9SYRlSB3PEOYwA1tPOiA8ik3jcH5f03cuD5zg");
     background-size: cover;
     background-position: center;
 }
